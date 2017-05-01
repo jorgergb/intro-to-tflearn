@@ -1,0 +1,7 @@
+mnist/t10k-images-idx3-ubyte.gz
+mnist/t10k-labels-idx1-ubyte.gz
+mnist/train-images-idx3-ubyte.gz
+mnist/train-labels-idx1-ubyte.gz
+.ipynb_checkpoints/TFLearn_Digit_Recognition-checkpoint.ipynb
+.ipynb_checkpoints/TFLearn_Digit_Recognition_Solution-checkpoint.ipynb
+.ipynb_checkpoints/TFLearn_Sentiment_Analysis-checkpoint.ipynb
